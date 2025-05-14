@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/r2y4-drivers/Documents/NabethGhazi_Kepler_SPI
+vclk_div
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1745736020
+!i10b 1
+!s100 U4mzD2]AUmodiU1>;zkQ=2
+IiVR>ie4NJzJ@EFXNVnozS3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 clk_div_sv_unit
+S1
+R0
+w1745650511
+8rtl/clk_div.sv
+Frtl/clk_div.sv
+L0 8
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1745736020.000000
+Z6 !s107 tb/tb_spi_drv.sv|rtl/spi_drv.sv|rtl/clk_div.sv|
+Z7 !s90 -sv|rtl/clk_div.sv|rtl/spi_drv.sv|tb/tb_spi_drv.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vspi_drv
+R1
+R2
+!i10b 1
+!s100 goSIDP2<HMJ]:e6lY1fX22
+ITD9WJeWVJXA6n:M9l;Noc0
+R3
+!s105 spi_drv_sv_unit
+S1
+R0
+w1745735193
+8rtl/spi_drv.sv
+Frtl/spi_drv.sv
+L0 36
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+vtb_spi_drv
+R1
+R2
+!i10b 1
+!s100 KgIZ4hXc88U`O1YGUcH7h1
+IClVfck5d]9cE;2L0B0kGd0
+R3
+!s105 tb_spi_drv_sv_unit
+S1
+R0
+w1745736006
+8tb/tb_spi_drv.sv
+Ftb/tb_spi_drv.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
